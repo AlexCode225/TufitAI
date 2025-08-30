@@ -1,6 +1,21 @@
-# Welcome to your Expo app 👋
+# TufitAI  template app 👋
+
+![profile screen ](https://github.com/user-attachments/assets/6cdb2e1d-d7fc-4d29-b302-1253c353cd28) ![Home screen](https://github.com/user-attachments/assets/35d5056d-f53c-40df-8c18-983cf439b328)
+
+![history screen](https://github.com/user-attachments/assets/2f81c3c3-cfc7-4f48-b0cf-d3b07145019d)
+![AI workout screen](https://github.com/user-attachments/assets/87fcee95-eaf8-49c6-b04e-2c9c9ac91e72)
+![settings screen](https://github.com/user-attachments/assets/05480778-14bf-4e3f-bd3e-11c3108d6464)
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+
+
+
+
+
+
+
+
 
 ## Get started
 
